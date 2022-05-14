@@ -7,7 +7,7 @@
         Projects
       </h1>
       <p class="text-lg leading-7 text-gray-500 dark:text-gray-400">
-        Some of the projects I've build or been a part of.
+        This is what makes me happy and angry at the same time
       </p>
     </div>
     <main class="relative mb-auto">
@@ -41,7 +41,7 @@ export default {
     };
   },
   head: {
-    title: "Md Solaiman | Projects",
+    title: "Matt Hrkal | Projects",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },

@@ -3,18 +3,12 @@
     <h2
       class="mt-6 text-4xl text-gray-700 font-bold capitalize dark:text-blue-200"
     >
-      👋 Hola , Good Day !
+      Hello, there !
     </h2>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-      Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-      Lorem Ipsum has been the industry's standard dummy text ever since the
-      1500s, when an unknown printer took a galley of type and scrambled it to
-      make a type specimen book. It has survived not only five centuries, but
-      also the leap into electronic typesetting, remaining essentially
-      unchanged. It was popularised in the 1960s with the release of Letraset
-      sheets containing Lorem Ipsum passages, and more recently with desktop
-      publishing software like Aldus PageMaker including versions of Lorem
-      Ipsum.
+      I am a technology enthusiast with a special interest in the use of AI techniques in business operations, analytics, and healthcare. 
+      The goal of my studies and employment is to learn how to solve hard problems on a daily basis, so later on, in my career, I can build a better and sustainable future for others. 
+      Most of my free time I spend researching topics in the realms of Deep Learning, Neuro-Symbolic AI, and Reinforcement learning, which I believe are crucial in order to develop more robust AI systems. 
     </p>
   </div>
 </template>

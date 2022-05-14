@@ -4,7 +4,7 @@
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
-        Frontend
+        Programming languages
       </h2>
 
       <ul class="flex flex-wrap gap-4 items-center">
@@ -16,19 +16,16 @@
           <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
         </li> -->
         <li class="flex items-center">
-          <Bootstrap class="h-10 w-10"></Bootstrap>
+          <Python class="h-10 w-10"></Python>
         </li>
         <li class="flex items-center">
-          <TailwindCss class="h-10 w-10"></TailwindCss>
+          <Java class="h-10 w-10"></Java>
         </li>
         <li class="flex items-center">
-          <Javascript class="h-10 w-10"></Javascript>
+          <R class="h-10 w-10"></R>
         </li>
         <li class="flex items-center">
-          <Vuejs class="h-10 w-10"></Vuejs>
-        </li>
-        <li class="flex items-center">
-          <Nuxt class="h-10 w-10"></Nuxt>
+          <Matlab class="h-10 w-10"></Matlab>
         </li>
       </ul>
     </div>
@@ -36,14 +33,17 @@
       <h2
         class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
       >
-        Backend
+        Software libraries
       </h2>
       <ul class="mb-6 flex flex-wrap gap-4">
         <li class="flex items-center">
-          <Laravel class="h-10 w-10"></Laravel>
+          <Numpy class="h-10 w-10"></Numpy>
         </li>
         <li class="flex items-center">
-          <Node class="h-10 w-10"></Node>
+          <Pandas class="h-10 w-10"></Pandas>
+        </li>
+        <li class="flex items-center">
+          <Pytorch class="h-10 w-10"></Pytorch>
         </li>
       </ul>
     </div>
@@ -51,26 +51,22 @@
 </template>
 
 <script>
-import Javascript from "../assets/devicon/javascript.svg?inline";
-import Html from "../assets/devicon/html.svg?inline";
-import Css from "../assets/devicon/css.svg?inline";
-import Vuejs from "../assets/devicon/vuejs.svg?inline";
-import TailwindCss from "../assets/devicon/tailwindcss.svg?inline";
-import Nuxt from "../assets/devicon/nuxt.svg?inline";
-import Bootstrap from "../assets/devicon/bootstrap.svg?inline";
-import Laravel from "../assets/devicon/laravel.svg?inline";
-import Node from "../assets/devicon/node.svg?inline";
+import Python from "../assets/devicon/python.svg?inline";
+import Java from "../assets/devicon/java.svg?inline";
+import R from "../assets/devicon/r.svg?inline";
+import Matlab from "../assets/devicon/matlab.svg?inline";
+import Numpy from "../assets/devicon/numpy.svg?inline";
+import Pandas from "../assets/devicon/pandas.svg?inline";
+import Pytorch from "../assets/devicon/pytorch.svg?inline";
 export default {
   components: {
-    Javascript,
-    Html,
-    Css,
-    Bootstrap,
-    Vuejs,
-    TailwindCss,
-    Nuxt,
-    Laravel,
-    Node,
+    Python,
+    Java,
+    R,
+    Matlab,
+    Numpy,
+    Pandas,
+    Pytorch,
   },
 };
 </script>

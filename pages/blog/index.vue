@@ -7,7 +7,6 @@
         Blog
       </h1>
       <p class="text-lg text-slate-700 dark:text-slate-400">
-        All the latest Tailwind CSS news, straight from the&nbsp;team.
       </p>
     </header>
     <div class="space-y-16 mx-auto max-w-7xl">
@@ -45,7 +44,7 @@ export default {
     };
   },
   head: {
-    title: "Md Solaiman | Blogs",
+    title: "Matt Hrkal | Blogs",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },

@@ -1,10 +1,10 @@
 const siteMetaInfo = {
-  title: "Md Solaiaman | Software Developer",
-  author: "Md Solaiman",
+  title: "Matt Hrkal | Artificial Intelligence student",
+  author: "Matt Hrkal",
   author_image: "/author.png",
-  position: "Full Stack Developer",
-  location: "Dhaka, Bangladesh",
-  headerTitle: "Md Rathik",
+  position: "Artificial Intelligence student",
+  location: "Amsterdam | Prague",
+  headerTitle: "TheBlackCerberus",
   slogan: "Let's start coding",
   description:
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
@@ -15,14 +15,14 @@ const siteMetaInfo = {
   siteLogo: "../assets/author.png",
   image: "~/assets/author.png",
   socialBanner: "/static/images/twitter-card.png",
-  email: "hello@rathik.dev",
-  github: "https://github.com/mdrathik",
-  githubUser: "mdrathik",
+  email: "matyhrkal@gmail.com",
+  github: "https://github.com/TheBlackCerberus",
+  githubUser: "TheBlackCerberus",
   twitter: "#",
-  twitter_user: "MDRT83716131",
+  // twitter_user: "MDRT83716131",
   stackoverflow: "#",
   youtube: "#",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/matej-hrkal/",
 };
 
 export default siteMetaInfo;

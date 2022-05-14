@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: "Md Solaiaman | Software Developer",
-  author: "Md Solaiman",
+  title: "Matt Hrkal | Artificial Intelligence student",
+  author: "Matt Hrkal",
   author_image: "/author.png",
-  position: "Full Stack Developer",
+  position: "Artificial Intelligence student",
   location: "Dhaka, Bangladesh",
   headerTitle: "Md Rathik",
   slogan: "Let's start coding",
@@ -22,7 +22,7 @@ const siteMetadata = {
   twitter_user: "MDRT83716131",
   stackoverflow: "#",
   youtube: "#",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/matej-hrkal/",
 };
 
 export default siteMetadata;
