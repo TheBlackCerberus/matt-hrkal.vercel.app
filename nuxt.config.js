@@ -18,8 +18,9 @@ export default {
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
 
+
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ["@/assets/css/main.css"],
+  css: ["@/assets/css/tailwind.css"],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -28,7 +29,7 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: ["@nuxt/postcss8", "@nuxt/image"],
+  buildModules: ["@nuxt/postcss8", "@nuxt/image", '@nuxtjs/tailwindcss'],
   vite: {
     /* options for vite */
     // ssr: true // enable unstable server-side rendering for development (false by default)
@@ -39,7 +40,7 @@ export default {
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image"],
+  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image", '@nuxtjs/tailwindcss'],
   svg: {
     vueSvgLoader: {
       // vue-svg-loader options
