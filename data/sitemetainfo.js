@@ -1,7 +1,7 @@
 const siteMetaInfo = {
   title: "Matt Hrkal | Artificial Intelligence student",
   author: "Matt Hrkal",
-  author_image: "/author.png",
+  author_image: "author.png",
   position: "Artificial Intelligence student",
   location: "Amsterdam | Prague",
   headerTitle: "TheBlackCerberus",

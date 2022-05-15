@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: "Matt Hrkal | Artificial Intelligence student",
   author: "Matt Hrkal",
-  author_image: "/author.png",
+  author_image: "author.png",
   position: "Artificial Intelligence student",
   location: "Dhaka, Bangladesh",
   headerTitle: "Md Rathik",
