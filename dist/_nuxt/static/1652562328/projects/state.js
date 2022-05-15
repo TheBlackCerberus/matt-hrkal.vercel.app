@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FTheBlackCerberus.github.io\u002F_nuxt\u002Fstatic\u002F1652562328",layout:"default",error:a,serverRendered:true,routePath:"\u002Fprojects",config:{_app:{basePath:"\u002FTheBlackCerberus.github.io\u002F",assetsPath:"\u002FTheBlackCerberus.github.io\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"9d5a41c0"}}}}(null));
